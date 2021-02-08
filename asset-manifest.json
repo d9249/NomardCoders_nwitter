@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NomardCoders_nwitter/static/css/main.931739ec.chunk.css",
+    "main.js": "/NomardCoders_nwitter/static/js/main.6a627ea7.chunk.js",
+    "main.js.map": "/NomardCoders_nwitter/static/js/main.6a627ea7.chunk.js.map",
+    "runtime-main.js": "/NomardCoders_nwitter/static/js/runtime-main.931390c6.js",
+    "runtime-main.js.map": "/NomardCoders_nwitter/static/js/runtime-main.931390c6.js.map",
+    "static/js/2.1f0b2e46.chunk.js": "/NomardCoders_nwitter/static/js/2.1f0b2e46.chunk.js",
+    "static/js/2.1f0b2e46.chunk.js.map": "/NomardCoders_nwitter/static/js/2.1f0b2e46.chunk.js.map",
+    "index.html": "/NomardCoders_nwitter/index.html",
+    "static/css/main.931739ec.chunk.css.map": "/NomardCoders_nwitter/static/css/main.931739ec.chunk.css.map",
+    "static/js/2.1f0b2e46.chunk.js.LICENSE.txt": "/NomardCoders_nwitter/static/js/2.1f0b2e46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931390c6.js",
+    "static/js/2.1f0b2e46.chunk.js",
+    "static/css/main.931739ec.chunk.css",
+    "static/js/main.6a627ea7.chunk.js"
+  ]
+}
